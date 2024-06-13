@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="English">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="Proyecto de Tercera 1" content="Página de Prueba"> 
+    <title>
+        Tercera 1
+    </title>
+    <link rel="stylesheet" href="./Styles/main.css">
+</head>
+
+<menu>
+    <div class="menu-izquierda">
+        <img src="./images/bob.png" alt="">
+        <p class="texto-menu-izquierda">
+            Bob Esponja
+        </p>
+
+    </div>
+</menu>
