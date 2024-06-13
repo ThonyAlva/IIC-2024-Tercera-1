@@ -12,6 +12,9 @@
 
 <menu>
     <div class="menu-izquierda">
+        <a href="./index.php">
+            <img src=".image" alt="">
+        </a>
         <img src="./images/bob.png" alt="">
         <p class="texto-menu-izquierda">
             Bob Esponja
